@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <date-generated>2026-08-14T11:00:00+02:00</date-generated>
+
+  <contacts>
+    <name_company></name_company>
+    <name_first>Quentin</name_first>
+    <name_last>Boinet</name_last>
+    <email>pascal.liegeois.131656@belnot.be</email>
+    <phone_code>+32</phone_code>
+    <phone_number>61580150</phone_number>
+  </contacts>
+
+  <ad>
+    <deal_type>sale</deal_type>
+    <property_type>life_housing_house</property_type>
+    <external_id>21748949</external_id>
+
+    <info_link>
+      https://www.immoweb.be/fr/annonce/maison/a-vendre/bastogne/6600/21748949
+    </info_link>
+
+    <geo>
+      <locality>Bastogne</locality>
+      <street>Rue Gueule-du-Loup</street>
+      <number>28</number>
+      <postal_code>6600</postal_code>
+      <country>BE</country>
+    </geo>
+
+    <desc>
+      <interior>
+        <bedrooms>4</bedrooms>
+        <bathrooms>2</bathrooms>
+        <size_s_living_metric>267</size_s_living_metric>
+      </interior>
+
+      <text>
+        <fr><![CDATA[
+Maison 4 façades située rue Gueule-du-Loup 28 à 6600 Bastogne.
+
+Maison construite en 1995 sur un terrain de 1.229 m².
+
+Elle comprend 4 chambres, 2 salles de bains, un garage et des caves.
+
+Le rez-de-chaussée comprend notamment un hall d'entrée, une cuisine équipée avec véranda et accès à la terrasse, une arrière-cuisine, une salle à manger avec balcon latéral et un salon avec poêle à pellets.
+
+À l'étage se trouvent un hall de nuit, 4 chambres et une seconde salle de bains.
+
+Le sous-sol comprend un garage avec porte sectionnelle pouvant accueillir plusieurs véhicules ainsi que des caves.
+
+Le jardin est orienté plein sud.
+
+PEB D.
+        ]]></fr>
+      </text>
+    </desc>
+
+    <lot>
+      <size_s_metric>1229</size_s_metric>
+    </lot>
+
+    <deal>
+      <price>
+        <sale>
+          <sum_total>575000</sum_total>
+        </sale>
+      </price>
+    </deal>
+
+    <media>
+    </media>
+  </ad>
+</root>
